@@ -37,8 +37,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Lucio%20Del%20Corro%20Raffetto&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=LucioDelCorroRaffetto&theme=dark" alt="Layout with last medium posts"  />
 </div>
+
+###
 
 ###
 </div>
