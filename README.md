@@ -18,14 +18,6 @@
 
 ###
 
-<h2 align="left">Estadísticas de GitHub</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioDelCorroRaffetto&layout=compact&theme=dark" alt="Lenguajes más usados" />
-</div>
-
-###
-
 <h2 align="left">Tecnologías que uso</h2>
 
 <div align="left">
@@ -47,6 +39,11 @@
 </div>
 
 ###
+
+<h2 align="left">Estadísticas de GitHub</h2>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioDelCorroRaffetto&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
 
 ###
