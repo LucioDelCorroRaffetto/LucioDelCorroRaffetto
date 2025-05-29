@@ -52,7 +52,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="animación de la serpiente de contribuciones" src="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="animación de la serpiente de contribuciones" src="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/main/dist/github-contribution-grid-snake.svg" />
 </picture>
