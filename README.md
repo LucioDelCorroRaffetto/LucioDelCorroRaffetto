@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioDelCorroRaffetto&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
 
