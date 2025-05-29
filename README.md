@@ -37,8 +37,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucioDelCorroRaffetto&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioDelCorroRaffetto&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
 
