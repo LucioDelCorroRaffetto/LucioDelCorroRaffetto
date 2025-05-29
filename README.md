@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">🧰 Full Stack Dev: de React al backend sin escalas  
-🐍 Python lover | SQL cruncher | Node wrangler  
-🕹️ Haciendo deploys con más fe que pruebas  
-🤖 Hablo JSON más fluido que inglés  
+<p align="left">🧰 Full Stack Dev: de React al backend sin escalas  <br>
+🐍 Python lover | SQL cruncher | Node wrangler  <br>
+🕹️ Haciendo deploys con más fe que pruebas  <br>
+🤖 Hablo JSON más fluido que inglés  <br>
 <br>📬 Contacto: delcorroraffetto@gmail.com<br>🔗 <a href="https://www.linkedin.com/in/luciodelcorroraffetto">LinkedIn</a></p>
 
 ###
@@ -25,8 +25,6 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=LucioDelCorroRaffetto&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-      <br />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioDelCorroRaffetto&layout=compact&theme=dark" alt="Lenguajes más usados" />
     </td>
     <td valign="top">
