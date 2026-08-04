@@ -1,22 +1,14 @@
 <h1 align="left">¡Hola 👋! ¿Cómo va?</h1>
 
-###
-
 <p align="left">Me llamo Lucio Del Corro Raffetto y soy desarrollador full stack de Argentina 🇦🇷</p>
 
-###
-
 <h2 align="left">Sobre mí</h2>
-
-###
 
 <p align="left">🧰 Full Stack Dev: de React al backend sin escalas  <br>
 🐍 Python lover | SQL cruncher | Node wrangler  <br>
 🕹️ Haciendo deploys con más fe que pruebas  <br>
 🤖 Hablo JSON más fluido que inglés  <br>
 <br>📬 Contacto: delcorroraffetto@gmail.com<br>🔗 <a href="https://www.linkedin.com/in/luciodelcorroraffetto">LinkedIn</a></p>
-
-###
 
 <h2 align="left">Tecnologías que uso</h2>
 
@@ -38,22 +30,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
 </div>
 
-###
-
 <h2 align="left">Estadísticas de GitHub</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioDelCorroRaffetto&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucioDelCorroRaffetto&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
-
-###
 
 <h2 align="left">🐍 Actividad reciente (Snake Game)</h2>
 
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="animación de la serpiente de contribuciones" src="https://github.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/blob/main/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="animación de la serpiente de contribuciones" src="https://raw.githubusercontent.com/LucioDelCorroRaffetto/LucioDelCorroRaffetto/main/dist/github-contribution-grid-snake.svg" />
 </picture>
